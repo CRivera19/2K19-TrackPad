@@ -1,5 +1,7 @@
 Build a Product Landing Page.
 
+https://codepen.io/CR3Designs/pen/oMYqJN
+
 List of user stories.
 
 User Story #1: My product landing page should have a header element with a corresponding id="header".
