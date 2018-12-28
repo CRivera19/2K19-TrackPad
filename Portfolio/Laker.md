@@ -1,7 +1,10 @@
-I had been doing freecodecamp since last year and completed some front end projects.
+*I had been doing freecodecamp since last year and completed some front end projects.*
+
+**Build a tribute page**
+
 This was project #1 part of Responsive Web Design projects.
-Build a tribute page.
-codepen erased my pen so have to build from scratch to pass tests.
+
+Codepen link - https://codepen.io/CR3Designs/full/zyvJvg
 
 List of user stories needed to reach to complete project.
 
