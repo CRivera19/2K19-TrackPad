@@ -17,6 +17,7 @@ Solution: Write 10 mins at end of day to review.
 - project 4
   
 *Complete Udemy Classes*
+- The Web Developer BootCamp
 - The Modern Javascript BootCamp
 - The Mern Stack Front to Back
 - UX Web Deisgn Master Course
