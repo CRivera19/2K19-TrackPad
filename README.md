@@ -23,6 +23,9 @@ Solution: Write 10 mins at end of day to review.
 - UX Web Deisgn Master Course
 - js algorithms and data structures masterclass
   
+*Try Practical Javascript*  
+https://watchandcode.com/p/practical-javascript/
+
 *Get job as Front End Web Dev*
 
 *Complete Classes for College*
