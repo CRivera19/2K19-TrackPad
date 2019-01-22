@@ -1,6 +1,6 @@
 Online Classes at Chaffey 10/18-12/18
 
-CISIWEB-424-02476 (FA18-O, 10/22)
+CISIWEB-424-02476 (FA18-O, 10/22) passed with A.
 
 Development of Websites using the WordPress Content Management System (CMS). Includes wordpress.com and wordpress.org, WordPress codex, installation, using the dashboard, navigation, themes, plugins, widgets, organizing content, multimedia, blogs, security, Search Engine Optimization (SEO), troubleshooting, modifying with HTML, and CSS, and other topics.
 
