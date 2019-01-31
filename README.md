@@ -2,7 +2,8 @@
 2019 Code Journey
 
 - Dec 2018 Set up and Review.
-- Jan 2019 ( Set up Goals )
+- Jan 2019 ( Got 4 classes for spring 19 )
+- Feb 2019 ( Set up Project 2 )
 
 Problem: Need to track progress and share to keep profile active.
 
