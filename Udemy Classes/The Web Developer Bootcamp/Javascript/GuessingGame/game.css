@@ -1,0 +1,30 @@
+body {
+  background-color: bisque;
+  color: crimson;
+}
+h1 {
+  text-align: center;
+}
+input {
+  box-sizing: border-box;
+  padding: 10px;
+  border: 2px solid crimson;
+  border-radius: 4px;
+}
+button {
+  background-color: crimson;
+  border: none;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  margin:10px 0;
+  border-radius: 4px;
+}
+#container {
+display: flex;
+}
+form {
+  text-align: center;
+}
